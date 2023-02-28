@@ -1,1 +1,1 @@
-# eslint-config-yun-jay
+# eslint-config-m3e
